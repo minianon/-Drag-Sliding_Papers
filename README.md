@@ -21,3 +21,11 @@ How to Use:
 
 Feel free to customize the content, design, and functionality of the sliding papers to meet your specific needs. 
 Enjoy the engaging and interactive sliding papers experience!
+
+## Design docs
+
+| Doc | What's inside |
+|---|---|
+| [High-Level Design](docs/hld.md) | Architecture, components, data flow, tech choices, deployment |
+| [Low-Level Design](docs/lld.md) | Modules, data models, APIs and functions, key sequences |
+
